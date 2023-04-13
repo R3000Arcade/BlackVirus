@@ -1,0 +1,1201 @@
+fileFormatVersion: 2
+guid: 989e54da8f5cd0b42a9b67163ea37c0f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 315
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42cd55b5a179ac4d9fbb15f393fb867
+      internalID: 540571076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 315
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14539a3f74ce90f49b4f6f36750bb448
+      internalID: 2037994664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 315
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbad0e20a22761489e00c2e0264469d
+      internalID: 848845822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 315
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f482e1ea829c7ce44bcc378ee195ce2c
+      internalID: 1390751041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 296
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d518cd518a399c43ad43bd860008648
+      internalID: -292194177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 296
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042337ebfe925a647ab950e6f6d0fd66
+      internalID: -1238046053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 298
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b3a654a031e324ebebf282fac6b45f
+      internalID: -1745034828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 304
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379dc980c4ed64f4ba6054ac097bda4b
+      internalID: -345080716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 298
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87e0577180165e4894cd1c1f95db2c7
+      internalID: -1932559547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 330
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66227787bc2015443b4e12b3b642bc70
+      internalID: 839392001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 296
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a458790ee3835fb4abf4b8b5a0352aae
+      internalID: 600841204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 240
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726552666fad6e54db33960ca287d86a
+      internalID: -521810898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 241
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729d456536d9c594ba4ed7372096cbd1
+      internalID: 966688245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 240
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb8253ea1fcfe0408f9851eff253cc8
+      internalID: 1076726782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 296
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e96cfb01815a1a4ba376be6385acc08
+      internalID: -1679668958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 240
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716f56aa1dc0c8e4385271c86e9a7cd8
+      internalID: -1412370277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 240
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c1e2ebb7738d24fa98d116ba099ddc
+      internalID: 2102676395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 207
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1368b6d97031d499f73cc45ea1a2ee
+      internalID: -331907214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 206
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c220926f2b5703243a9e400eafdc9512
+      internalID: 1304571115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 206
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ea5d1bd950c8543891ddc1b3f688be
+      internalID: -426471997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 206
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dad5c169cd84564bb63fa0fcfe6f4b0
+      internalID: 1156638042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 206
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ba75a3617d31244b6cfef6a1e6b2e8
+      internalID: 1533645260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 166
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fd4e3378977424bad81ac24a9e9f47
+      internalID: 401877679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 166
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bd24cdf6656954084a64fde4b5ad60
+      internalID: 2090825340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 166
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ae29faf99e51a488690fe089c76144
+      internalID: -1621933640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 166
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4974c2b7f8d5f84fa4b1de6770faa94
+      internalID: -1846541619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 164
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4404be8ca2661b04ca857f1fcf56ebd8
+      internalID: 1213097374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 140
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091274b8b8b4bf44ca8effa62f47aa62
+      internalID: 1625713125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 139
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a9ec19c5c03c444937a0384c0ad8b7
+      internalID: -709891330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 139
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c424f2d512c594b8cd195085b03345
+      internalID: -730247790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 139
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adf675b68d06b5448065a64c29f0234
+      internalID: -2038349189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 140
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368f7bdd7e340d14b8094ae3a3b335e9
+      internalID: 1056317653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 131
+        width: 68
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c49dd52ecdc6a4fa42dbe12c7204a9
+      internalID: 1585593201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 131
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eb0b944c0363045bb1e3ac2ccf316e
+      internalID: 422477116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 127
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d20b7f42783214591f13b70ad4353f
+      internalID: 280207234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 131
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd457aa894f0614b9ff9b3c42049874
+      internalID: -1356415780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 128
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5654779d949d040a745ceac49ebadc
+      internalID: -919353773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 46
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1eaa562ef32ec43861003357089939
+      internalID: -1118324606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 45
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d290150f58ec141860c1abe3911f86
+      internalID: 864128644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 46
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d03fc18513307d4fbf3f4f52bee60ac
+      internalID: -463271663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 46
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac3d3c33c715b247bba45c821beec80
+      internalID: -2130158755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 46
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fec0d4444e56b41a97a59416a6560b
+      internalID: -207368206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 46
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6a76cd754df964b995ae633ede0de8
+      internalID: -668383801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 52
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270301d0b0def6541ba45490a56784f3
+      internalID: -594986346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 52
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed85a457ec16bd4fbc5b4c1d7573bbd
+      internalID: -876611915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 52
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82a675f810881b45bf6b73b843a2985
+      internalID: 537837903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 52
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650139ef82677d941ad5028f846e365e
+      internalID: -657042149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 52
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5455fdabb507fe940864f0cd4f417e02
+      internalID: -446211042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zommbie-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 52
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8977048b15d5cdc41abd248ee1f3293a
+      internalID: -2131173766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zommbie-removebg-preview_0: 540571076
+      zommbie-removebg-preview_1: 2037994664
+      zommbie-removebg-preview_10: 600841204
+      zommbie-removebg-preview_11: -521810898
+      zommbie-removebg-preview_12: 966688245
+      zommbie-removebg-preview_13: 1076726782
+      zommbie-removebg-preview_14: -1679668958
+      zommbie-removebg-preview_15: -1412370277
+      zommbie-removebg-preview_16: 2102676395
+      zommbie-removebg-preview_17: -331907214
+      zommbie-removebg-preview_18: 1304571115
+      zommbie-removebg-preview_19: -426471997
+      zommbie-removebg-preview_2: 848845822
+      zommbie-removebg-preview_20: 1156638042
+      zommbie-removebg-preview_21: 1533645260
+      zommbie-removebg-preview_22: 401877679
+      zommbie-removebg-preview_23: 2090825340
+      zommbie-removebg-preview_24: -1621933640
+      zommbie-removebg-preview_25: -1846541619
+      zommbie-removebg-preview_26: 1213097374
+      zommbie-removebg-preview_27: 1625713125
+      zommbie-removebg-preview_28: -709891330
+      zommbie-removebg-preview_29: -730247790
+      zommbie-removebg-preview_3: 1390751041
+      zommbie-removebg-preview_30: -2038349189
+      zommbie-removebg-preview_31: 1056317653
+      zommbie-removebg-preview_32: 1585593201
+      zommbie-removebg-preview_33: 422477116
+      zommbie-removebg-preview_34: 280207234
+      zommbie-removebg-preview_35: -1356415780
+      zommbie-removebg-preview_36: -919353773
+      zommbie-removebg-preview_37: -1118324606
+      zommbie-removebg-preview_38: 864128644
+      zommbie-removebg-preview_39: -463271663
+      zommbie-removebg-preview_4: -292194177
+      zommbie-removebg-preview_40: -2130158755
+      zommbie-removebg-preview_41: -207368206
+      zommbie-removebg-preview_42: -668383801
+      zommbie-removebg-preview_43: -594986346
+      zommbie-removebg-preview_44: -876611915
+      zommbie-removebg-preview_45: 537837903
+      zommbie-removebg-preview_46: -657042149
+      zommbie-removebg-preview_47: -446211042
+      zommbie-removebg-preview_48: -2131173766
+      zommbie-removebg-preview_5: -1238046053
+      zommbie-removebg-preview_6: -1745034828
+      zommbie-removebg-preview_7: -345080716
+      zommbie-removebg-preview_8: -1932559547
+      zommbie-removebg-preview_9: 839392001
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
