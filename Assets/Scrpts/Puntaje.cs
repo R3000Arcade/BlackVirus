@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using Unity.VisualScripting;
+using UnityEngine.SceneManagement;
 
 public class Puntaje : MonoBehaviour
 {
@@ -24,6 +25,10 @@ public class Puntaje : MonoBehaviour
     public void SumarPuntos (float puntosEntrada)
     {
         puntos += puntosEntrada;
+        if (puntos >= 100)
+        {
+            SceneManager.LoadScene("MenuInicial", LoadSceneMode.Single);
+        }
 
     }
 }
