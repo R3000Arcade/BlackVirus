@@ -27,6 +27,7 @@ public class control : MonoBehaviour
     private bool salto = false;
     [SerializeField] private int saltosExtraRestantes;
     [SerializeField] private int saltosExtra;
+    public GameManager gameManager;
 
     private Animator animator;
     
@@ -40,23 +41,28 @@ public class control : MonoBehaviour
     {
 
 
-
-
-        movimientoHorizontal = Input.GetAxis("Horizontal") * velocidadDeMovimiento;
-
-
-        animator.SetFloat("Horizontal", Mathf.Abs(movimientoHorizontal));
-        if (Input.GetButtonDown("Jump"))
+        if (gameManager.start)
         {
 
-            salto = true;
+            movimientoHorizontal = Input.GetAxis("Horizontal") * velocidadDeMovimiento;
 
+
+            animator.SetFloat("Horizontal", Mathf.Abs(movimientoHorizontal));
+            if (Input.GetButtonDown("Jump"))
+            {
+
+                salto = true;
+
+            }
+            if (enSuelo)
+            {
+                saltosExtraRestantes = saltosExtra;
+            }
         }
-        if (enSuelo)
+        if (gameManager.gameOver)
         {
-            saltosExtraRestantes = saltosExtra;
+            Destroy(gameObject);
         }
-
 
     }
     private void FixedUpdate()
@@ -110,8 +116,7 @@ public class control : MonoBehaviour
     {
         if (collition.gameObject.tag == "Enemy")
         {
-            Destroy(gameObject);
-            //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);   
+            gameManager.gameOver = true;
 
         }
        
