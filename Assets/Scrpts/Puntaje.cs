@@ -25,7 +25,7 @@ public class Puntaje : MonoBehaviour
     public void SumarPuntos (float puntosEntrada)
     {
         puntos += puntosEntrada;
-        if (puntos >= 100)
+        if (puntos >= 670)
         {
             SceneManager.LoadScene("MenuInicial", LoadSceneMode.Single);
         }
