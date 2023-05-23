@@ -10,6 +10,8 @@ TagManager:
   - vida
   - vida2
   - vida3
+  - Enemy2
+  - sonido
   layers:
   - Default
   - TransparentFX
