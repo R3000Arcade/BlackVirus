@@ -2,23 +2,21 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EfectoSonido : MonoBehaviour
-
-
+public class SonidoBurbuja : MonoBehaviour
 {
     private AudioSource audioSource;
-    [SerializeField] private AudioClip colectar1;
-    [SerializeField] private AudioClip colectar2;
+    [SerializeField] private AudioClip burbuja;
+
 
     public void Start()
     {
         audioSource = GetComponent<AudioSource>();
 
     }
- 
 
-    public void sonidoMoneda()
+
+    public void sonidoBurbuja2()
     {
-        audioSource.PlayOneShot(colectar1);
+        audioSource.PlayOneShot(burbuja);
     }
 }

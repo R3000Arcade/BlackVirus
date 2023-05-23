@@ -114,7 +114,7 @@ public class control : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collition)
     {
-        if (collition.gameObject.tag == "Enemy")
+        if (collition.gameObject.tag == "Enemy2")
         {
             gameManager.gameOver = true;
 

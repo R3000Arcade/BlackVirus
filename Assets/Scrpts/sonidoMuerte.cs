@@ -2,23 +2,21 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EfectoSonido : MonoBehaviour
-
-
+public class sonidoMuerte : MonoBehaviour
 {
     private AudioSource audioSource;
-    [SerializeField] private AudioClip colectar1;
-    [SerializeField] private AudioClip colectar2;
+    [SerializeField] private AudioClip muerto;
+   
 
     public void Start()
     {
         audioSource = GetComponent<AudioSource>();
 
     }
- 
 
-    public void sonidoMoneda()
+
+    public void sonidoMuerte1()
     {
-        audioSource.PlayOneShot(colectar1);
+        audioSource.PlayOneShot(muerto);
     }
 }
